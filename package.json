@@ -1,0 +1,30 @@
+{
+  "name": "projeto-node-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eve-Bessa/Projeto-Git4.git"
+  },
+  "author": "Eve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eve-Bessa/Projeto-Git4/issues"
+  },
+  "homepage": "https://github.com/Eve-Bessa/Projeto-Git4#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
